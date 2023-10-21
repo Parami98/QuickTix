@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "hyXvcMhvEHyrYNBqpZNA2NiMYMMkEAItR4jwYFN5/e4=",
+  "Source": "ead-backend",
+  "BasePath": "_content/ead-backend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
